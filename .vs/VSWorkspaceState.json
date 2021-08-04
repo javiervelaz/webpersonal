@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets\\demo",
+    "\\src\\assets\\scss",
+    "\\src\\components",
+    "\\src\\components\\Navbar",
+    "\\src\\directives",
+    "\\src\\layout",
+    "\\src\\pages"
+  ],
+  "SelectedNode": "\\src\\components\\Navbar\\NavbarToggleButton.vue",
+  "PreviewInSolutionExplorer": false
+}
